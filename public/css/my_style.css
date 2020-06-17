@@ -1,0 +1,23 @@
+ .margin-top{
+
+ 	margin-top: 30px;
+ }
+ .bg-clr{
+ 	background: #ececec none repeat scroll 0% 0%;
+ }
+
+ .br-bottom{
+
+ border-bottom: 2px dotted #787878!important;
+ margin-top: 10px;
+ margin-bottom: 10px;
+ }
+
+ .active{
+
+ 	color: #1a80f2;
+ }
+ .inactive{
+cursor: pointer;
+
+ }
